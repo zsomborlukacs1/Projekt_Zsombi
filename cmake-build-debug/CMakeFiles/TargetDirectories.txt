@@ -1,0 +1,3 @@
+D:/SAPIENTIA/I.EV_2/ADATSZ1/adatszerkezetek_1/cmake-build-debug/CMakeFiles/adatszerkezetek_1.dir
+D:/SAPIENTIA/I.EV_2/ADATSZ1/adatszerkezetek_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/SAPIENTIA/I.EV_2/ADATSZ1/adatszerkezetek_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
